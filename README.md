@@ -12,18 +12,10 @@
 
 
 
-
-> 프로젝트 한 줄 설명
-
-
-
-
-(프로젝트를 대표하는 대표 이미지)
-
-
 ## 📖 Description
 
-(프로젝트에 대한 자세한 설명)
+> 우리만의 풋살 스토리를 직접 기록하고 공유할 수 있는 장을 마련해주는 서비스 <br><br> 남녀노소 구분없이 누구든지 풋살 문화에 쉽게 접근할 수 있게 해주는 서비스
+
 
 
 ## ⭐ Main Feature
@@ -44,33 +36,14 @@
 
 ## 📚 Stack
 - **Language**: Python
-- **Library & Framework** : Django
+- **Library & Framework** :<br> Django, FastAPI, OpenCV, YOLO, Scikit Learn, LangChain
 - **Database** : AWS RDS (MySQL 8.0)
 - **ORM** : Django
 - **Deploy**: AWS EC2 g4dn Instance (Ubuntu 24.04 LTS)
 
-## :open_file_folder: Django Project Structure
-
-```markdown
-src
-├── common
-│   ├── config
-│   ├── types
-│   └── utils
-│       ├── types
-│       └── utils
-├── controller
-├── entity
-├── infrastructure
-│   ├── express
-│   └── typeorm
-├── repository
-└── ser
-```
-(프로젝트 구조 딱히 구상하신 거 없으면 이 부분 지워주세요)
-
 ## 🔨 Server Architecture
 (사진 첨부하기)
+![architecture](./서버 아키텍쳐.png)
 
 
 ## 👨‍💻 Role & Responsibilities
