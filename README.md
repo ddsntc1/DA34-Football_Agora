@@ -76,7 +76,7 @@
 *  **서한울** ([HanW001-S](https://github.com/HanW001-S))
 *  **손명준** ([](https://github.com/))
 *  **신대근** ([bigroot0504](https://github.com/bigroot0504))
-*  **임경란** ([rudfks2265](rudfks2265@gmail.com))
+*  **임경란** ([rudfks2265](https://github.com/rudfks2265))
 *  **정현수** ([chrishyunstead](https://github.com/chrishyunstead))
 
 #### 시연영상 및 PDF
