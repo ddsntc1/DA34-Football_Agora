@@ -80,6 +80,6 @@
 *  **정현수** ([chrishyunstead](https://github.com/chrishyunstead))
 
 #### 시연영상 및 PDF
-[웹페이지_시연영상](웹페이지_시연영상.mp4)
-[챗봇_시연영상](챗봇_시연영상.mp4)
-[FA_PDF](FA_최종.pdf)
+- [웹페이지_시연영상](웹페이지_시연영상.mp4)
+- [챗봇_시연영상](챗봇_시연영상.mp4)
+- [FA_PDF](FA_최종.pdf)
