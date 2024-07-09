@@ -42,7 +42,7 @@
 - **Deploy**: AWS EC2 g4dn Instance (Ubuntu 24.04 LTS)
 
 ## 🔨 Server Architecture
-![architecture](서버 아키텍쳐.png)
+![image](서버%20아키텍쳐.png)
 
 
 ## 👨‍💻 Role & Responsibilities
