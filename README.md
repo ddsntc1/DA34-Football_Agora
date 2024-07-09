@@ -63,8 +63,6 @@
 - 풋살 경기 영상 분석 모델 개발
 - 객체 인식 및 트래킹 전처리
 
-**시연영상**
--
 
 **ETC**
 
@@ -80,3 +78,8 @@
 *  **신대근** ([bigroot0504](https://github.com/bigroot0504))
 *  **임경란** ([](https://github.com/))
 *  **정현수** ([chrishyunstead](https://github.com/chrishyunstead))
+
+#### 시연영상 및 PDF
+[웹페이지_시연영상](웹페이지_시연영상.mp4)
+[챗봇_시연영상](챗봇_시연영상.mp4)
+[FA_PDF](FA_최종.pdf)
