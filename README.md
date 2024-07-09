@@ -74,9 +74,9 @@
 *  **강민지** ([lucide99](https://github.com/lucide99))
 *  **김성일** ([Kshi0219](https://github.com/Kshi0219))
 *  **서한울** ([HanW001-S](https://github.com/HanW001-S))
-*  **손명준** ([](https://github.com/))
+*  **손명준** ([MingGoon](https://github.com/MingGoon))
 *  **신대근** ([bigroot0504](https://github.com/bigroot0504))
-*  **임경란** ([kyungranim]((https://github.com/kyungranim)))
+*  **임경란** ([kyungranim](https://github.com/kyungranim))
 *  **정현수** ([chrishyunstead](https://github.com/chrishyunstead))
 
 #### 시연영상 및 PDF
